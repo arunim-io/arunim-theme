@@ -6,6 +6,10 @@
 	"engines": {
 		"vscode": "^1.75.0"
 	},
+	"repository": {
+		"url": "https://github.com/arunim-io/arunim-theme"
+	},
+	"publisher": "arunim-io",
 	"categories": [
 		"Themes"
 	],
